@@ -1,0 +1,24 @@
+# IP素材库配置
+
+# IP素材库
+ip_lib:
+  羲和:
+    style: 古风神话
+    suit_clothes: 汉服、唐装
+  常羲:
+    style: 国风神话/清冷仙女
+    suit_clothes: 仙女装，白裙
+  霓裳:
+    style: 仙侠飘逸
+    suit_clothes: 纱衣、道袍
+  星辰:
+    style: 赛博朋克
+    suit_clothes: 未来感服装
+  都市:
+    style: 现代简约
+    suit_clothes: 时装、休闲装
+
+# 文档链接
+docs:
+  commercial_ip: https://my.feishu.cn/docx/YX2ndrTd4okH79xHamtcJjbEn97
+  # 视频转场提示词已迁移到 config/prompt.md，不再需要查外部文档
